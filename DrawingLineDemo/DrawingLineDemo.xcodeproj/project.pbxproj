@@ -15,6 +15,7 @@
 		C98CFD351F3C036E00347D9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C98CFD331F3C036E00347D9D /* LaunchScreen.storyboard */; };
 		C98CFD401F3C036E00347D9D /* DrawingLineDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C98CFD3F1F3C036E00347D9D /* DrawingLineDemoTests.m */; };
 		C98CFD4B1F3C036E00347D9D /* DrawingLineDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C98CFD4A1F3C036E00347D9D /* DrawingLineDemoUITests.m */; };
+		C9BE8E211F418F9D004A9213 /* 22222222.png in Resources */ = {isa = PBXBuildFile; fileRef = C9BE8E201F418F9D004A9213 /* 22222222.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C98CFD461F3C036E00347D9D /* DrawingLineDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawingLineDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C98CFD4A1F3C036E00347D9D /* DrawingLineDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawingLineDemoUITests.m; sourceTree = "<group>"; };
 		C98CFD4C1F3C036E00347D9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9BE8E201F418F9D004A9213 /* 22222222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22222222.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				C98CFD291F3C036E00347D9D /* AppDelegate.m */,
 				C98CFD2B1F3C036E00347D9D /* ViewController.h */,
 				C98CFD2C1F3C036E00347D9D /* ViewController.m */,
+				C9BE8E201F418F9D004A9213 /* 22222222.png */,
 				C98CFD2E1F3C036E00347D9D /* Main.storyboard */,
 				C98CFD311F3C036E00347D9D /* Assets.xcassets */,
 				C98CFD331F3C036E00347D9D /* LaunchScreen.storyboard */,
@@ -252,6 +255,7 @@
 				C98CFD351F3C036E00347D9D /* LaunchScreen.storyboard in Resources */,
 				C98CFD321F3C036E00347D9D /* Assets.xcassets in Resources */,
 				C98CFD301F3C036E00347D9D /* Main.storyboard in Resources */,
+				C9BE8E211F418F9D004A9213 /* 22222222.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +518,7 @@
 				C98CFD511F3C036E00347D9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C98CFD521F3C036E00347D9D /* Build configuration list for PBXNativeTarget "DrawingLineDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +527,7 @@
 				C98CFD541F3C036E00347D9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C98CFD551F3C036E00347D9D /* Build configuration list for PBXNativeTarget "DrawingLineDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +536,7 @@
 				C98CFD571F3C036E00347D9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
